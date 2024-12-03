@@ -89,7 +89,7 @@ const Part1 = () => {
       </div>
       {safeCount !== null && (
         <div className="result-container">
-          <strong>Safe Reports Count:</strong>
+          <strong>Safe Reports Count: </strong>
           {safeCount}
         </div>
       )}

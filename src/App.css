@@ -28,7 +28,7 @@ h1 {
 }
 
 .day-box {
-  background-color: darkgreen;
+  background-color: #006400;
   color: white;
   font-weight: bold;
   padding: 25px 25px;
@@ -71,4 +71,9 @@ textarea.input-field {
   border: none;
   border-radius: 5px;
   cursor: pointer;
+}
+
+.result-container {
+  margin-top: 20px;
+  font-size: 22px;
 }
